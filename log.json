@@ -5,8 +5,7 @@
     "title": "Lithium",
     "type": "update",
     "notes": [
-      "Updated to version-c5aecda2245e4fae",
-      "fixxed auth error (INVALID_AUTH_KEY)"
+      "Updated to version-c5aecda2245e4fae"
     ]
   }
 ]
